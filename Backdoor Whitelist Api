@@ -4,5 +4,5 @@ block:website()
 print:console"You Are Not Whitelisted!"
 if whitelist then
 print:console"Hello Welcome In Backdoor Api!"
-local print:console = scritp.Parent.print.text.console.on()
+local print:console = script.Parent.print.text.console.on()
 end
